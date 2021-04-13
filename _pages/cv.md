@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "MASON KADEM"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,22 @@ redirect_from:
 
 Education and Experience
 ======
-* Scientific Advisor, Vascular AI Lab, Jan 2020–Present
+* Scientific Advisor, Jan 2020–Present
+  * Vascular AI Lab, Hamilton, ON
   * Keywords: remote behavioural and physiological testing, optics, bioinstrumentation, computer vision
   
-* Chief Technology Officer (CTO), RESEARCH ONLINE (Ro), htttps://wwww.reserachonline.ca, Sep 2020–Present
+* Chief Technology Officer (CTO) 
+  * RESEARCH ONLINE (Ro), htttps://wwww.reserachonline.ca, Sep 2020–Present
   * Keywords: remote behavioural and physiological testing, optics, bioinstrumentation, computer vision 
+
+* Teacher, BEYOND THE CLASSROOM, Burlington, ON, Jan 2020–Present
+	* Keywords: pedagogy, math, science, social science, grade 10-12 curriculum
+
+* STEM program manager, ENGINEERING FOR KIDS, Hamilton, ON						       Feb 2020– April 2021
+
+Keywords: neuroscience lectures, robotics, kids, education, sensors
+![image](https://user-images.githubusercontent.com/39227979/114632124-fe8d6a80-9c8b-11eb-8888-60236c2e1267.png)
+
 
 * Doctor of Philosophy (Ph.D.), 2012
 * M.S. in Jekyll, GitHub University, 2014
