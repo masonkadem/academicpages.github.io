@@ -11,10 +11,11 @@ redirect_from:
 
 Education and Experience
 ======
-* Scientific Advisor, Vascular AI Lab
-  *Keywords: remote behavioural and physiological testing, optics, bioinstrumentation, computer vision
+* Scientific Advisor, Vascular AI Lab, Jan 2020–Present
+  * Keywords: remote behavioural and physiological testing, optics, bioinstrumentation, computer vision
   
-
+* Chief Technology Officer (CTO), RESEARCH ONLINE (Ro), htttps://wwww.reserachonline.ca, Sep 2020–Present
+  * Keywords: remote behavioural and physiological testing, optics, bioinstrumentation, computer vision 
 
 * Doctor of Philosophy (Ph.D.), 2012
 * M.S. in Jekyll, GitHub University, 2014
