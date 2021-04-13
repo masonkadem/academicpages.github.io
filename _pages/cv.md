@@ -9,9 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education and Experience
 ======
-* B.S. in GitHub, GitHub University, 2012
+* Scientific Advisor, Vascular AI Lab
+  *Keywords: remote behavioural and physiological testing, optics, bioinstrumentation, computer vision
+  
+
+
+* Doctor of Philosophy (Ph.D.), 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
